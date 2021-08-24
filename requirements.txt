@@ -1,0 +1,7 @@
+streamlit
+matplotlib
+numpy
+DateTime
+pyowm
+plotly
+boto
